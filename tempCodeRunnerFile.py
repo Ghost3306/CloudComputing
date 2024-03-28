@@ -1,0 +1,2 @@
+API_KEY = "AIzaSyDiLuEait44hgVJqzvYMaxrrra0-GNfxKo"
+# SEARCH_ENGINE_ID = "5782c3b64d30b471e"
