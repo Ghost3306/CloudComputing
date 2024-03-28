@@ -37,7 +37,6 @@ public class Practical1 {
 		b3 = new JButton("close"); 
 		b3.setBounds(150, 150, 60, 30); 
 
-		
 		b1.addActionListener(new ActionListener() { 
 			public void actionPerformed(ActionEvent e) 
 			{ 

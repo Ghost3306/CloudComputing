@@ -1,3 +1,8 @@
-.env
-.txt
-.class
+# Ignore txt files
+*.txt
+
+# Ignore class files
+*.class
+
+# Ignore env files
+*.env

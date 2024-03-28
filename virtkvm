@@ -1,4 +1,0 @@
-$ sudo setfacl -m user:$USER:rw /var/run/libvirt/libvirt-sock
-lalit@lalit-virtual-machine:~$ sudo systemctl enable libvirtd
-lalit@lalit-virtual-machine:~$ sudo systemctl start libvirtd
-
